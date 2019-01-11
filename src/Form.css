@@ -1,0 +1,22 @@
+.form {
+    text-align: center;
+}
+
+label {
+    color: #000000;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 5px;
+    
+}
+
+[type="text"] {
+    text-align: center;
+    font-weight: bold;
+} 
+
+[type="button"] {
+    border: 1px solid #000000;
+    border-radius: 15px;
+} 
+
